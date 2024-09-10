@@ -2,7 +2,7 @@
 This is my first Git Repository . 
 Auther - Ajay kumar Patel 
 
-{ Switch Program } 
+//  //  //{ Switch Program } 
 #include <stdio.h>
 int main()
 {

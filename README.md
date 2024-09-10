@@ -1,13 +1,3 @@
-# Hardware-sentinels
-This is my first Git Repository . 
-Auther - Ajay kumar Patel 
-
-
-
-
-//  //  //{ Switch Program } 
-
-
 #include <stdio.h>
 int main()
 {
